@@ -2,6 +2,8 @@
 
 A real-time facial expression analysis application built with React and face-api.js. This application uses your webcam to detect faces and analyze emotions in real-time.
 
+[Live Demo](https://shikhr.github.io/facial-emotion-detection/)
+
 ![Face Emotion Recognition Demo](/public/demo.png)
 
 ## Features
